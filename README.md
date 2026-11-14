@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PixelSong — Premium Offline Music Player for Windows
 
 PixelSong is a high-performance, beautiful, fully offline desktop music player engineered for Windows 10 and Windows 11. It brings together local library management, native multi-format audio playback with Symphonia, real-time 10-band biquad equalizer DSP, and an expressive 10-mode Canvas visualizer studio.
@@ -117,3 +118,7 @@ PixelSong strictly upholds offline principles:
 
 ## 📄 License
 PixelSong Core — Built for desktop music collectors.
+=======
+# PixelSong
+PixelSong is a retro-inspired, pixel-art music player that transforms your local music library into an immersive RPG-style listening experience. Discover, organize, and play your favorite tracks with beautiful visuals, animated interfaces, custom playlists, and nostalgic gaming aesthetics.
+>>>>>>> b5b7ac978c5015333156638d52ec491f2bc0f986
